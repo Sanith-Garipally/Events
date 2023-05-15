@@ -1,0 +1,66 @@
+.article {
+  padding: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+figure {
+  margin: 0;
+}
+.yetToPara {
+  font-size: 35px;
+  font-weight: 500;
+  color: #64748b;
+  text-align: center;
+}
+.registered-img {
+  width: 80px;
+}
+.para-registered {
+  color: #3a4b63;
+  font-weight: 700;
+  font-size: 30px;
+  text-align: center;
+}
+.register-img-container {
+  text-align: center;
+}
+.rc-img {
+  width: 300px;
+}
+
+.rc-head {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 500;
+  color: #3a4b63;
+}
+
+.rc-para {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+  color: #475569;
+}
+
+.yt-img {
+  width: 300px;
+}
+.yt-para {
+  color: #475569;
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+  width: 300px;
+  line-height: 35px;
+}
+.yt-btn {
+  background-color: #0967d2;
+  width: 300px;
+  border: none;
+  padding: 12px;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 15px;
+}

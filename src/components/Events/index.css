@@ -1,0 +1,23 @@
+.bg-container {
+  display: flex;
+}
+.list-container {
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+section {
+  width: 60%;
+  background-color: #475569;
+  color: #fff;
+  padding: 30px;
+}
+aside {
+  width: 40%;
+}
+.head-1 {
+  font-size: 40px;
+  font-weight: bold;
+}
